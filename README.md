@@ -1,12 +1,11 @@
 [![MasterHead](https://github.com/vibhamaurya05/vibhamaurya05/blob/main/VIBHA%20MAURYA.jpg)">]
-
-<h1 align="center">Hi 👋, I'm VIBHA MAURYA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhamaurya05&label=Profile%20views&color=0e75b6&style=flat" alt="vibhamaurya05" /> </p>
+<h1 align="center">Hi 👋, I'm VIBHA MAURYA</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 - 🔭 I’m currently working on **WebAuraForge**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **MERN**
 
