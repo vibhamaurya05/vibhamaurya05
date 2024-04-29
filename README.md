@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm VIBHA MAURYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="800" src="gif.gif">
+<img align="center" alt="Coding" width="500" src="gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhamaurya05&label=Profile%20views&color=0e75b6&style=flat" alt="vibhamaurya05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhamaurya05" alt="vibhamaurya05" /></a> </p>
