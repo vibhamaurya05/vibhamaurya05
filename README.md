@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm VIBHA MAURYA</h1>
 <h3 align="center">Shaping the future of the web today. Explore my codebase on GitHub!</h3>
 
-<img align="right" alt="Coding" width="400" src="gif.gif">
+<img align="right" alt="Coding" width="500" src="gif.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhamaurya05&label=Profile%20views&color=0e75b6&style=flat" alt="vibhamaurya05" /> </p>
