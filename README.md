@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/vibhamaurya05/vibhamaurya05/blob/main/VIBHA%20MAURYA.jpg)
 <h1 align="center">Hi 👋, I'm VIBHA MAURYA</h1>
 <h3 align="center">Shaping the future of the web today. Explore my codebase on GitHub!</h3>
 
