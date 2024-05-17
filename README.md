@@ -16,9 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/twitter-%23E34F26.svg?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="html logo" />
     <img src="https://img.shields.io/badge/instagram-%23E34F26.svg?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="html logo" />
-    <img src="https://img.shields.io/badge/linkedIn-%23E34F26.svg?style=for-the-badge&logo=linkedIn&logoColor=white" height="25" alt="html logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" href="https://linkedin.com/in/vivek563maurya" height="25" alt="html logo" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
