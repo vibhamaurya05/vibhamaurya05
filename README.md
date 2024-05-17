@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhamaurya05&show_icons=true&locale=en" alt="vibhamaurya05" /></p>
 
