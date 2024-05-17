@@ -17,11 +17,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/badge/twitter-%2331A8FF.svg?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25" alt="Instagram logo"  />
+  <img src="https://img.shields.io/badge/twitter-%2331A8FF.svg?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="twitter logo"  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠Languages and Tools:</h3>
 <div align="start">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt="html logo" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25" alt="css logo"/>
