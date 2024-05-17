@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIBHA MAURYA</h1>
 <h3 align="center">Shaping the future of the web today. Explore my codebase on GitHub!</h3>
 
-<img align="right" alt="" height ="350" width="400" src="[gif.gif](https://i.pinimg.com/originals/e4/92/66/e49266b020eb9e125f4bc87503414444.gif)">
+<img align="right" alt="" height ="350" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkzZG83eHdqc3dmOWFmM3g1eHlma2pyNXpoc2xhNGI0cmluaXhrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhamaurya05&label=Profile%20views&color=0e75b6&style=flat" alt="vibhamaurya05" /> </p>
