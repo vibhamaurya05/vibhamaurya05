@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vibhamaurya20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vibhamaurya20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vibhamaurya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibhamaurya05" height="30" width="40" /></a>
-<a href="https://instagram.com/vibhamaurya_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibhamaurya_05" height="30" width="40" /></a>
+    <img src="https://img.shields.io/badge/twitter-%23E34F26.svg?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="html logo" />
+    <img src="https://img.shields.io/badge/instagram-%23E34F26.svg?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="html logo" />
+    <img src="https://img.shields.io/badge/linkedIn-%23E34F26.svg?style=for-the-badge&logo=linkedIn&logoColor=white" height="25" alt="html logo" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
