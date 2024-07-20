@@ -6,13 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhamaurya05&label=Profile%20views&color=0e75b6&style=flat" alt="vibhamaurya05" /> </p>
 
-*  Exploring tech to expand my skillset **.**
-
-*  I’m currently learning **Web Development and DSA**
-
-*  I’m currently working on project. **WebAuraForge**
-
-*  How to reach me **vibhamaurya5sep@gmail.com**
+- 👀 I’m interested in developing cool features in web applications using latest technology stacks.
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking to collaborate on any kind of web app. I love to explore new technologies.
+- 📫 How to reach me - Please reach me on my LinkedIn profile - https://www.linkedin.com/in/vibhamaurya05/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
