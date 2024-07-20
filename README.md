@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" alt="javascript><br>
 </div>
 
-<div class="flex">
+<div class="start">
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25">
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25">
@@ -35,7 +35,7 @@
   
 </div>
 
-<div class="flex">
+<div class="start">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25" alt="MySQL logo"/>
 <img alt="Markdown Badge" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white"  height="25">
 <img alt="Appwrite Badge" src="https://img.shields.io/badge/Appwrite-%23F02E65.svg?style=flat&logo=appwrite&logoColor=white"  height="25">
