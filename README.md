@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIBHA MAURYA</h1>
 <h3 align="center">Shaping the future of the web today. Explore my codebase on GitHub!</h3>
-
+<img align="right" alt="" height ="350" width="420" src="https://i.pinimg.com/564x/b1/c2/c4/b1c2c44a24096163d8f5ffb9424da72e.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhamaurya05&label=Profile%20views&color=0e75b6&style=flat" alt="vibhamaurya05" /> </p>
 
 - 👀 I’m interested in developing cool features in web applications using latest technology stacks.
